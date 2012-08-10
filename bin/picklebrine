@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+var picklebrine = require('../lib/main');
+
+picklebrine(process.argv);
